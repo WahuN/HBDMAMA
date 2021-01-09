@@ -1,0 +1,68 @@
+body {
+  height: 300px;
+  margin: 0 auto 100px auto;
+  text-align: center;
+  padding: 5px 20px;
+  line-height: 2;
+  font-family: 'EB Garamond', serif;
+  color: #393e46;
+  font-size:2;
+}
+
+header {
+  background-color: thistle;
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto 100px auto;
+  font-size: 2.5rem;
+}
+
+p {
+  margin:50px auto;
+}
+footer {
+  background-color: #F0E2D0;
+  margin:50px auto;
+}
+
+.conclusion {
+  width: 75%;
+
+}
+.description {
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: #184D47;
+  font-size: 1.5rem;
+}
+
+.top {
+  width: 50%;
+  margin: 50px auto;
+}
+
+.mom {
+  width: 20%;
+  float: left;
+  margin-right: 20px;
+}
+.middle {
+  background-color: #F8F1F1;
+  width:50%;
+  margin: 100px auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.Bible {
+  border-radius: 80%;
+  width:20%;
+  float: right;
+  margin-left: 20px;
+}
+
+.verse {
+  text-decoration: underline;
+}
+
+.end {
+  font-size: 0.75rem;
+}
